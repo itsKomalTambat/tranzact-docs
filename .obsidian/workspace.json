@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "95a10e9d405537e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production Module - User Guide.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Production Module - User Guide.md"
+            }
+          },
+          {
+            "id": "3b4a008a284268db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production Module - User Guide.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Production Module - User Guide.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b17750b457336f23",
@@ -94,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "21f523380294f3d7",
@@ -178,11 +208,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f6759f4e5564bc0",
+  "active": "3b4a008a284268db",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Production Module - User Guide.md.md",
+    "Untitled.md",
+    "Welcome.md",
+    "create a link.md"
   ]
 }
